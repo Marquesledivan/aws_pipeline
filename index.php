@@ -7,12 +7,12 @@
 <!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
    <HEAD>
       <TITLE>
-         Cloud Treinamentos
+         Cloud Ledivan
       </TITLE>
    </HEAD>
 <BODY>
         <br>
-        <H1>Cloud Treinamentos</H1>
+        <H1>Cloud Ledivan</H1>
         <span style="color:red;font-size:25px">Iniciar stress processador 100% </span>
         <a href="exec.php" target="_blank">AQUI</a>
         <br>
